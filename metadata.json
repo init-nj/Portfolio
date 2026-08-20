@@ -1,0 +1,7 @@
+{
+  "name": "Nayan Portfolio",
+  "description": "Editorial magazine-style personal portfolio for Nayan, an AI/ML student and developer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
