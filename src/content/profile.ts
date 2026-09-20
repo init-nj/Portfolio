@@ -13,7 +13,7 @@ export const profile: ProfileData = {
     },
     headline: "AI & ML Student",
     subheadline: "LPU · Punjab, India",
-    statement: "म संसार जित्ने आठ गर्दै छु",
+    statement: "I'll walk",
     email: "nayanjha05in@gmail.com",
     links: {
         github: "https://github.com/init-nj",
